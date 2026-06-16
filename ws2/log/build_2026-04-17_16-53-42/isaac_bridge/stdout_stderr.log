@@ -1,0 +1,29 @@
+running egg_info
+creating ../../build/isaac_bridge/isaac_bridge.egg-info
+writing ../../build/isaac_bridge/isaac_bridge.egg-info/PKG-INFO
+writing dependency_links to ../../build/isaac_bridge/isaac_bridge.egg-info/dependency_links.txt
+writing entry points to ../../build/isaac_bridge/isaac_bridge.egg-info/entry_points.txt
+writing requirements to ../../build/isaac_bridge/isaac_bridge.egg-info/requires.txt
+writing top-level names to ../../build/isaac_bridge/isaac_bridge.egg-info/top_level.txt
+writing manifest file '../../build/isaac_bridge/isaac_bridge.egg-info/SOURCES.txt'
+reading manifest file '../../build/isaac_bridge/isaac_bridge.egg-info/SOURCES.txt'
+writing manifest file '../../build/isaac_bridge/isaac_bridge.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/user/ws2/build/isaac_bridge/build
+creating /home/user/ws2/build/isaac_bridge/build/lib
+creating /home/user/ws2/build/isaac_bridge/build/lib/isaac_bridge
+copying isaac_bridge/__init__.py -> /home/user/ws2/build/isaac_bridge/build/lib/isaac_bridge
+copying isaac_bridge/joint_state_relay.py -> /home/user/ws2/build/isaac_bridge/build/lib/isaac_bridge
+running install
+running install_lib
+creating /home/user/ws2/install/isaac_bridge/lib/python3.12/site-packages/isaac_bridge
+copying /home/user/ws2/build/isaac_bridge/build/lib/isaac_bridge/__init__.py -> /home/user/ws2/install/isaac_bridge/lib/python3.12/site-packages/isaac_bridge
+copying /home/user/ws2/build/isaac_bridge/build/lib/isaac_bridge/joint_state_relay.py -> /home/user/ws2/install/isaac_bridge/lib/python3.12/site-packages/isaac_bridge
+byte-compiling /home/user/ws2/install/isaac_bridge/lib/python3.12/site-packages/isaac_bridge/__init__.py to __init__.cpython-312.pyc
+byte-compiling /home/user/ws2/install/isaac_bridge/lib/python3.12/site-packages/isaac_bridge/joint_state_relay.py to joint_state_relay.cpython-312.pyc
+running install_egg_info
+Copying ../../build/isaac_bridge/isaac_bridge.egg-info to /home/user/ws2/install/isaac_bridge/lib/python3.12/site-packages/isaac_bridge-0.0.0-py3.12.egg-info
+running install_scripts
+Installing joint_state_relay script to /home/user/ws2/install/isaac_bridge/lib/isaac_bridge
+writing list of installed files to '/home/user/ws2/build/isaac_bridge/install.log'

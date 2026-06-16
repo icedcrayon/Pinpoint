@@ -1,0 +1,20 @@
+[0.516s] Invoking command in '/home/user/ws2/src/isaac_bridge': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/user/ws2/build/isaac_bridge/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/ws2/install/isaac_bridge/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/isaac_bridge build --build-base /home/user/ws2/build/isaac_bridge/build install --record /home/user/ws2/build/isaac_bridge/install.log --single-version-externally-managed
+[0.654s] running egg_info
+[0.665s] writing ../../build/isaac_bridge/isaac_bridge.egg-info/PKG-INFO
+[0.665s] writing dependency_links to ../../build/isaac_bridge/isaac_bridge.egg-info/dependency_links.txt
+[0.665s] writing entry points to ../../build/isaac_bridge/isaac_bridge.egg-info/entry_points.txt
+[0.665s] writing requirements to ../../build/isaac_bridge/isaac_bridge.egg-info/requires.txt
+[0.665s] writing top-level names to ../../build/isaac_bridge/isaac_bridge.egg-info/top_level.txt
+[0.687s] reading manifest file '../../build/isaac_bridge/isaac_bridge.egg-info/SOURCES.txt'
+[0.687s] writing manifest file '../../build/isaac_bridge/isaac_bridge.egg-info/SOURCES.txt'
+[0.688s] running build
+[0.688s] running build_py
+[0.688s] running install
+[0.690s] running install_lib
+[0.702s] running install_egg_info
+[0.713s] removing '/home/user/ws2/install/isaac_bridge/lib/python3.12/site-packages/isaac_bridge-0.0.0-py3.12.egg-info' (and everything under it)
+[0.713s] Copying ../../build/isaac_bridge/isaac_bridge.egg-info to /home/user/ws2/install/isaac_bridge/lib/python3.12/site-packages/isaac_bridge-0.0.0-py3.12.egg-info
+[0.713s] running install_scripts
+[0.787s] Installing joint_state_relay script to /home/user/ws2/install/isaac_bridge/lib/isaac_bridge
+[0.788s] writing list of installed files to '/home/user/ws2/build/isaac_bridge/install.log'
+[0.802s] Invoked command in '/home/user/ws2/src/isaac_bridge' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/user/ws2/build/isaac_bridge/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/ws2/install/isaac_bridge/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/isaac_bridge build --build-base /home/user/ws2/build/isaac_bridge/build install --record /home/user/ws2/build/isaac_bridge/install.log --single-version-externally-managed

@@ -1,0 +1,60 @@
+[0.006s] Invoking command in '/home/user/ws2/build/ws2_config': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/mi_ws/install/isaac_bridge:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/user/ws2/src/ws2_config -DCMAKE_INSTALL_PREFIX=/home/user/ws2/install/ws2_config
+[0.037s] -- The C compiler identification is GNU 13.3.0
+[0.069s] -- The CXX compiler identification is GNU 13.3.0
+[0.078s] -- Detecting C compiler ABI info
+[0.131s] -- Detecting C compiler ABI info - done
+[0.136s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.136s] -- Detecting C compile features
+[0.137s] -- Detecting C compile features - done
+[0.142s] -- Detecting CXX compiler ABI info
+[0.200s] -- Detecting CXX compiler ABI info - done
+[0.206s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.206s] -- Detecting CXX compile features
+[0.206s] -- Detecting CXX compile features - done
+[0.209s] -- Found ament_cmake: 2.5.5 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.303s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[0.426s] -- Configuring done (0.4s)
+[0.427s] -- Generating done (0.0s)
+[0.428s] -- Build files have been written to: /home/user/ws2/build/ws2_config
+[0.433s] Invoked command in '/home/user/ws2/build/ws2_config' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/mi_ws/install/isaac_bridge:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/user/ws2/src/ws2_config -DCMAKE_INSTALL_PREFIX=/home/user/ws2/install/ws2_config
+[0.433s] Invoking command in '/home/user/ws2/build/ws2_config': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/mi_ws/install/isaac_bridge:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/user/ws2/build/ws2_config -- -j20 -l20
+[0.458s] Invoked command in '/home/user/ws2/build/ws2_config' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/mi_ws/install/isaac_bridge:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/user/ws2/build/ws2_config -- -j20 -l20
+[0.465s] Invoking command in '/home/user/ws2/build/ws2_config': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/mi_ws/install/isaac_bridge:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/user/ws2/build/ws2_config
+[0.474s] -- Install configuration: ""
+[0.475s] -- Installing: /home/user/ws2/install/ws2_config/share/ws2_config/launch
+[0.475s] -- Installing: /home/user/ws2/install/ws2_config/share/ws2_config/launch/demo.launch.py
+[0.475s] -- Installing: /home/user/ws2/install/ws2_config/share/ws2_config/launch/spawn_controllers.launch.py
+[0.475s] -- Installing: /home/user/ws2/install/ws2_config/share/ws2_config/launch/moveit_rviz.launch.py
+[0.475s] -- Installing: /home/user/ws2/install/ws2_config/share/ws2_config/launch/warehouse_db.launch.py
+[0.476s] -- Installing: /home/user/ws2/install/ws2_config/share/ws2_config/launch/move_group.launch.py
+[0.476s] -- Installing: /home/user/ws2/install/ws2_config/share/ws2_config/launch/static_virtual_joint_tfs.launch.py
+[0.476s] -- Installing: /home/user/ws2/install/ws2_config/share/ws2_config/launch/setup_assistant.launch.py
+[0.476s] -- Installing: /home/user/ws2/install/ws2_config/share/ws2_config/launch/rsp.launch.py
+[0.476s] -- Installing: /home/user/ws2/install/ws2_config/share/ws2_config/config
+[0.476s] -- Installing: /home/user/ws2/install/ws2_config/share/ws2_config/config/joint_limits.yaml
+[0.476s] -- Installing: /home/user/ws2/install/ws2_config/share/ws2_config/config/ros2_controllers.yaml
+[0.476s] -- Installing: /home/user/ws2/install/ws2_config/share/ws2_config/config/initial_positions.yaml
+[0.476s] -- Installing: /home/user/ws2/install/ws2_config/share/ws2_config/config/kinematics.yaml
+[0.476s] -- Installing: /home/user/ws2/install/ws2_config/share/ws2_config/config/pilz_cartesian_limits.yaml
+[0.477s] -- Installing: /home/user/ws2/install/ws2_config/share/ws2_config/config/SO101.srdf
+[0.477s] -- Installing: /home/user/ws2/install/ws2_config/share/ws2_config/config/moveit_controllers.yaml
+[0.477s] -- Installing: /home/user/ws2/install/ws2_config/share/ws2_config/config/moveit.rviz
+[0.477s] -- Installing: /home/user/ws2/install/ws2_config/share/ws2_config/config/SO101.ros2_control.xacro
+[0.477s] -- Installing: /home/user/ws2/install/ws2_config/share/ws2_config/config/SO101.urdf.xacro
+[0.477s] -- Installing: /home/user/ws2/install/ws2_config/share/ws2_config/.setup_assistant
+[0.477s] -- Installing: /home/user/ws2/install/ws2_config/share/ament_index/resource_index/package_run_dependencies/ws2_config
+[0.477s] -- Installing: /home/user/ws2/install/ws2_config/share/ament_index/resource_index/parent_prefix_path/ws2_config
+[0.477s] -- Installing: /home/user/ws2/install/ws2_config/share/ws2_config/environment/ament_prefix_path.sh
+[0.477s] -- Installing: /home/user/ws2/install/ws2_config/share/ws2_config/environment/ament_prefix_path.dsv
+[0.477s] -- Installing: /home/user/ws2/install/ws2_config/share/ws2_config/environment/path.sh
+[0.477s] -- Installing: /home/user/ws2/install/ws2_config/share/ws2_config/environment/path.dsv
+[0.477s] -- Installing: /home/user/ws2/install/ws2_config/share/ws2_config/local_setup.bash
+[0.477s] -- Installing: /home/user/ws2/install/ws2_config/share/ws2_config/local_setup.sh
+[0.477s] -- Installing: /home/user/ws2/install/ws2_config/share/ws2_config/local_setup.zsh
+[0.477s] -- Installing: /home/user/ws2/install/ws2_config/share/ws2_config/local_setup.dsv
+[0.477s] -- Installing: /home/user/ws2/install/ws2_config/share/ws2_config/package.dsv
+[0.477s] -- Installing: /home/user/ws2/install/ws2_config/share/ament_index/resource_index/packages/ws2_config
+[0.478s] -- Installing: /home/user/ws2/install/ws2_config/share/ws2_config/cmake/ws2_configConfig.cmake
+[0.478s] -- Installing: /home/user/ws2/install/ws2_config/share/ws2_config/cmake/ws2_configConfig-version.cmake
+[0.478s] -- Installing: /home/user/ws2/install/ws2_config/share/ws2_config/package.xml
+[0.478s] Invoked command in '/home/user/ws2/build/ws2_config' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/mi_ws/install/isaac_bridge:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/user/ws2/build/ws2_config

@@ -1,0 +1,9 @@
+/home/user/ws2/build/ws2_config/CMakeFiles/uninstall.dir
+/home/user/ws2/build/ws2_config/CMakeFiles/ws2_config_uninstall.dir
+/home/user/ws2/build/ws2_config/CMakeFiles/test.dir
+/home/user/ws2/build/ws2_config/CMakeFiles/edit_cache.dir
+/home/user/ws2/build/ws2_config/CMakeFiles/rebuild_cache.dir
+/home/user/ws2/build/ws2_config/CMakeFiles/list_install_components.dir
+/home/user/ws2/build/ws2_config/CMakeFiles/install.dir
+/home/user/ws2/build/ws2_config/CMakeFiles/install/local.dir
+/home/user/ws2/build/ws2_config/CMakeFiles/install/strip.dir

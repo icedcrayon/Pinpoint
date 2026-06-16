@@ -1,0 +1,25 @@
+moveit_setup_assistant_config:
+  urdf:
+    package: my_robot_description
+    relative_path: urdf/so101ws2.urdf
+  srdf:
+    relative_path: config/SO101.srdf
+  package_settings:
+    author_name: Sangyong Park
+    author_email: sypbasilio@gmail.com
+    generated_timestamp: 1776403886
+  control_xacro:
+    command:
+      - position
+    state:
+      - position
+      - velocity
+  modified_urdf:
+    xacros:
+      - control_xacro
+  control_xacro:
+    command:
+      - position
+    state:
+      - position
+      - velocity

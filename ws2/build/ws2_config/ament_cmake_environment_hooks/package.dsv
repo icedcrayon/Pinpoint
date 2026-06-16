@@ -1,0 +1,4 @@
+source;share/ws2_config/local_setup.bash
+source;share/ws2_config/local_setup.dsv
+source;share/ws2_config/local_setup.sh
+source;share/ws2_config/local_setup.zsh
